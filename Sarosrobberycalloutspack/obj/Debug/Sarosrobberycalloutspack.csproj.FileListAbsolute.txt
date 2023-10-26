@@ -1,0 +1,11 @@
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\bin\Debug\CitizenFX.Core.Client.dll
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\bin\Debug\FivePD.net.dll
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\bin\Debug\CitizenFX.Core.Client.xml
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\bin\Debug\FivePD.net.xml
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\obj\Debug\Sarosrobberycalloutspack.csproj.AssemblyReference.cache
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\obj\Debug\Sarosrobberycalloutspack.csproj.CoreCompileInputs.cache
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\obj\Debug\Sarosrobberycalloutspack.csproj.CopyComplete
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\bin\Debug\Saros-robbery-callouts-pack.net.dll
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\bin\Debug\Saros-robbery-callouts-pack.net.pdb
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\obj\Debug\Saros-robbery-callouts-pack.net.dll
+I:\FivePD Callouts\Sarosrobberycalloutspack\Sarosrobberycalloutspack\obj\Debug\Saros-robbery-callouts-pack.net.pdb
