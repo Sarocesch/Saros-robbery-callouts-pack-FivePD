@@ -1,4 +1,5 @@
 # Saros-robbery-callouts-pack
 
 
-- Infos and Download here: https://legacy.curseforge.com/gta5/gta-v-mods/saros-robbery-callouts-fivepd
+
+- Download: (2 Versions DE and EN Unzip) https://github.com/Sarocesch/Saros-robbery-callouts-pack-FivePD/releases/tag/FivePD
